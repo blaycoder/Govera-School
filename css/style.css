@@ -689,7 +689,7 @@ h1.single{
 	font-size: 84px;
 	line-height: 101px;
 	border-radius: 4px;
-	background:#b68711;
+	background:#9d3939;
 	padding: 1px 23px 5px 23px;
 	display: inline-block;
 }
@@ -789,7 +789,7 @@ h1.single{
 
 .posts .info h3 {
 	overflow: hidden;
-	color: #033aaf;
+	color: #c40000;
 	font-family: 'BebasNeue';
 	font-size: 30px;
 	line-height: 34px;
@@ -806,7 +806,7 @@ h1.single{
 }
 .header-box {
 	overflow: hidden;
-	background: #000D6B;
+	background: #b68711;
 	padding: 15px 0 15px 0;	
 	color: #fff;
 }
