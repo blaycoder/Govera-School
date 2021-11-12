@@ -188,7 +188,7 @@ a:hover {
 	text-indent: -9999em;
 	border-radius: 50%;
 	/* background-position: center; */
-	background: url(../images/logo.jpg) no-repeat;
+	background: url(../images/logo.png) no-repeat;
 	background-size: contain;
 	position: relative;
 	z-index: 3;
@@ -1766,7 +1766,7 @@ a.btn.blue,
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
 	
 	#logo {
-		background-image: url(../images/logo.jpg);
+		background-image: url(../images/logo.png);
 		background-size: 121px 134px;
 	}
 
@@ -2095,7 +2095,7 @@ a.btn.blue,
 	@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
 	
 		#logo {
-			background-image: url(../images/logo.jpg);
+			background-image: url(../images/logo.png);
 			background-size: 90px 100px;
 		}
 	}
